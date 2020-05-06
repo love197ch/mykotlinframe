@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/selector_main_home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/discovery"
+        android:icon="@drawable/selector_main_find"
+        android:title="@string/discovery" />
+    <item
+        android:id="@+id/navigation"
+        android:icon="@drawable/selector_main_setting"
+        android:title="@string/navigation" />
+    <item
+        android:id="@+id/mine"
+        android:icon="@drawable/selector_main_mine"
+        android:title="@string/mine" />
+</menu>
